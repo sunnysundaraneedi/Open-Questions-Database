@@ -1,0 +1,12 @@
+.username {
+  color: #0ce3ac;
+  font-family: inherit;
+}
+.profile_error {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.profile h2 {
+  font-size: 32px;
+}

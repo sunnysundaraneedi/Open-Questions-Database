@@ -1,0 +1,35 @@
+.login_container {
+  width: 80%;
+  margin: 60px auto;
+}
+
+.login_container h2 {
+  font-size: 32px;
+}
+input {
+  width: 100%;
+  border: 2px hidden transparent;
+  height: 45px;
+  padding: 10px 15px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #464545;
+  border-radius: 4px;
+  margin-top: 18px;
+}
+
+.action_btns {
+  margin-top: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  display: flex;
+  gap: 24px;
+}
+.action_btn {
+  flex: 1;
+  font-weight: 600;
+  font-size: 150%;
+  padding: 18px 27px;
+  border: none;
+}

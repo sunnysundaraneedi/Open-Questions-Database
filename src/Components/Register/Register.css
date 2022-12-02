@@ -1,0 +1,17 @@
+.register_container {
+  width: 80%;
+  margin: 40px auto;
+}
+.register_container h2 {
+  margin-bottom: 16px;
+}
+.register_container label {
+  font-weight: bold;
+}
+.register_container input {
+  margin-top: 3px;
+  margin-bottom: 18px;
+}
+.register_container .action_btns {
+  width: 100%;
+}
